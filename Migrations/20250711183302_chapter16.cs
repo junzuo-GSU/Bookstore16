@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Bookstore.Migrations
 {
     /// <inheritdoc />
-    public partial class initial : Migration
+    public partial class chapter16 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
